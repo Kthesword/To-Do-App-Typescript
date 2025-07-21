@@ -55,6 +55,6 @@ No server needed. This is a static frontend app.
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshots/Screenshot 2025-07-21 175248.png)
+![Screenshot](./Screenshot 2025-07-21 175248.png)
 
 
