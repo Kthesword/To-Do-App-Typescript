@@ -55,7 +55,7 @@ No server needed. This is a static frontend app.
 
 ## 📸 Screenshot
 
-![Todo Screenshot](/screenshots/Screenshot202025-07-2120175051.png)
+![Todo Screenshot](/screenshots/Screenshot2025-07-21175051.png)
 
 ## 🧠 Technologies Used
 - TypeScript
