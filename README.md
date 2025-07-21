@@ -55,6 +55,18 @@ No server needed. This is a static frontend app.
 
 ## 📸 Screenshot
 
-![Screenshot](./Screenshot 2025-07-21 175248.png)
+![Todo Screenshot](screenshots/Screenshot 2025-07-21 175248.png)
 
+## 🧠 Technologies Used
+- TypeScript
 
+- HTML5
+
+- CSS3 (custom styling)
+
+## 🔗 Live Demo
+
+https://github.com/Kthesword/To-Do-App-Typescript/
+
+## 🙋‍♂️ Author
+Built with ❤️ by Kalid 
