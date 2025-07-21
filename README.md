@@ -53,9 +53,13 @@ Simply open index.html in your browser.
 
 No server needed. This is a static frontend app.
 
-## 📸 Screenshot
+## 📸Home page Screenshot
 
-![Todo Screenshot](screenshots/Screenshot%202025-07-21%20175051.png)
+![Todo app Screenshot](screenshots/Screenshot%202025-07-21%20175248.png)
+
+## 📸 Edit task Screenshot
+
+![Edit task Screenshot](screenshots/Screenshot%202025-07-21%20175051.png)
 
 ## 🧠 Technologies Used
 - TypeScript
