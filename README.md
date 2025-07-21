@@ -53,5 +53,8 @@ Simply open index.html in your browser.
 
 No server needed. This is a static frontend app.
 
+## 📸 Screenshot
+
+![Screenshot](./screenshot.png)
 
 
